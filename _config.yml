@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Your Name / Site Title"  # TODO: Change to your name and site title
+title                    : "Jiaxin Jessie Wang"  # TODO: Change to your name and site title
 title_separator          : "-"
-name                     : &name "Your Name"  # TODO: Change to your full name
-description              : &description "Your Name's academic portfolio"   # TODO: Update with a general description of your site
+name                     : &name "Jiaxin Jessie Wang"  # TODO: Change to your full name
+description              : &description "Jiaxin Jessie Wang's Academic Portfolio"   # TODO: Update with a general description of your site
 url                      : https://jiaxinjessiewang.github.io # The base hostname & protocol for your site
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jiaxinjessiewang/jiaxinjessiewang.github.io"
@@ -23,21 +23,21 @@ repository               : "jiaxinjessiewang/jiaxinjessiewang.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"  # Make sure you upload profile.png to /images/ folder
-  name             : "Your Sidebar Name"  # TODO: Change to your name
+  name             : "Jiaxin Jessie Wang, M.Ed."  # TODO: Change to your name
   pronouns         : # TODO: Add your pronouns, example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"  # TODO: Write 1-2 sentences about yourself
-  location         : "Earth"  # TODO: Change to your location, e.g. "New York, USA"
-  employer         : "Red Brick University"  # TODO: Change to your university/company
+  bio              : "Educator, Researcher, Advocate"  # TODO: Write 1-2 sentences about yourself
+  location         : "Nashville, TN"  # TODO: Change to your location, e.g. "New York, USA"
+  employer         : "Vanderbilt University, Peabody College of Education"  # TODO: Change to your university/company
   uri              : # TODO: Your personal website URL (optional)
-  email            : "none@example.org"  # TODO: Change to your email address 
+  email            : "jiaxinjessie.wang@vanderbilt.edu"  # TODO: Change to your email address 
 
   # Academic websites
   academia         : # TODO: Your Academia.edu profile URL (optional)
   arxiv            : # TODO: Your arXiv profile URL (optional)
-  googlescholar    : # TODO: Your Google Scholar profile URL, e.g. "https://scholar.google.com/citations?user=YOUR_ID"
+  googlescholar    : "https://scholar.google.com/citations?user=U7rtIk4AAAAJ&hl=en&oi=ao"
   inspire-hep      : # TODO: Your INSPIRE-HEP profile URL (optional)
   impactstory      : # TODO: Your Impactstory profile URL (optional)
-  orcid            : # TODO: Your ORCID profile URL, e.g. "https://orcid.org/0000-0000-0000-0000"
+  orcid            : "https://orcid.org/0000-0002-5771-5803"
   semantic         : # TODO: Your Semantic Scholar profile URL (optional)
   ssrn             : # TODO: Your SSRN profile URL (optional)
   pubmed           : # TODO: Your PubMed profile URL (optional)
@@ -65,7 +65,7 @@ author:
   keybase          : # TODO: Your Keybase username (optional)
   instagram        : # TODO: Your Instagram username (optional)
   lastfm           : # TODO: Your Last.fm username (optional)
-  linkedin         : # TODO: Your LinkedIn username (optional)
+  linkedin         : "jxjwang"
   mastodon         : # TODO: Your Mastodon profile URL (optional)
   medium           : # TODO: Your Medium profile URL (optional)
   pinterest        : # TODO: Your Pinterest username (optional)
