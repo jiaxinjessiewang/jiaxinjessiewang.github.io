@@ -24,10 +24,10 @@ author:
   # Biographic information
   avatar           : "profile.png"  # Make sure you upload profile.png to /images/ folder
   name             : "Jiaxin Jessie Wang, M.Ed."  # TODO: Change to your name
-  pronouns         : # TODO: Add your pronouns, example: "she/her"  
+  pronouns         : "she/her/她"
   bio              : "Educator, Researcher, Advocate"  # TODO: Write 1-2 sentences about yourself
   location         : "Nashville, TN"  # TODO: Change to your location, e.g. "New York, USA"
-  employer         : "Vanderbilt University, Peabody College of Education"  # TODO: Change to your university/company
+  employer         : "Vanderbilt University"  # TODO: Change to your university/company
   uri              : # TODO: Your personal website URL (optional)
   email            : "jiaxinjessie.wang@vanderbilt.edu"  # TODO: Change to your email address 
 
