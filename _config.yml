@@ -25,10 +25,10 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Jiaxin Jessie Wang"
-  pronouns         : # example: "she/her"  
+  pronouns         : "she/her/她"  
   bio              : "Ph.D. Candidate"
   location         : "Nashville, TN"
-  employer         : "Peabody College of Education, Vanderbilt University"
+  employer         : "Vanderbilt University"
   uri              : # URL
   email            : "jiaxinjessie.wang@vanderbilt.edu" 
 
